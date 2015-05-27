@@ -1,0 +1,16 @@
+{
+  "name": "skinny-bone-mongoose",
+  "version": "0.1.0",
+  "description": "Mongooose bone",
+  "author": {
+    "name": "Geometria Lab"
+  },
+  "main": "./bone.js",
+  "dependencies": {
+    "mongoose": "~4.0.1",
+    "bluebird": "~2.9.24"
+  },
+  "engines": [
+    "iojs >= 2.0"
+  ]
+}
